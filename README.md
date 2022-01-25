@@ -3,6 +3,7 @@ There’s quotient and remainder tools of a division, value squared and square r
 
 usage:
 python3 number_squared.py
+
 the software will prompt you to enter the number
 
 python3 rest_quotient.py
